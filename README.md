@@ -2,10 +2,10 @@
 
 
 🔭 I’m currently working on ...
-Python, Machine Learning
+Python, R, SQL, Machine Learning
 
 👯 I’m looking to collaborate on ...
-Machine Learning Projects
+Data Science, Machine Learning Projects
 
 📫 How to reach me:
 email: sujitkandar118@gmail.com
