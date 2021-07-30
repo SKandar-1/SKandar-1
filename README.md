@@ -5,7 +5,7 @@
 Python, R, SQL, Machine Learning
 
 👯 I’m looking to collaborate on ...
-Data Science, Machine Learning Projects
+Data Science and Machine Learning Projects
 
 📫 How to reach me:
 email: sujitkandar118@gmail.com
