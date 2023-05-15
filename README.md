@@ -2,7 +2,7 @@
 
 
 🔭 I’m currently working on ...
-Python, R, SQL, Machine Learning
+Data Science, Python, R, SQL, Machine Learning
 
 👯 I’m looking to collaborate on ...
 Data Science and Machine Learning Projects
