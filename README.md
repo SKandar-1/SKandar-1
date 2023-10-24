@@ -1,26 +1,2 @@
-### Hi there 👋
 
 
-🔭 I’m currently working on ...
-Data Science, Python, R, SQL, Machine Learning
-
-👯 I’m looking to collaborate on ...
-Data Science and Machine Learning Projects
-
-📫 How to reach me:
-email: sujitkandar118@gmail.com
-Phone: 978-333-9004
-<!--
-**SKandar-1/SKandar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
